@@ -1,0 +1,31 @@
+.container{
+    max-width: 387px;
+    width: auto;
+    &>div:first-of-type{
+        display: flex;
+        justify-content: center;
+        padding-bottom: 29px;
+        img{
+            width: 148px;
+            height: auto;
+        }
+    }
+    h4,p{
+        text-align: center;
+        margin: 0;
+    }
+    h4{
+        font-family: 'Ubuntu-Bold',sans-serif;
+        font-size: 24px;
+        line-height: 40px;
+        color: #30306D;
+        padding-bottom: 12px;
+    }
+    p{
+        font-family: 'Ubuntu-Light',sans-serif;
+        font-size: 18px;
+        line-height: 20px;
+        color: #333333;
+    }
+
+}

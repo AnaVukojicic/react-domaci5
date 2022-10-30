@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921" height="1080" viewBox="0 0 1921 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_940" data-name="Rectangle 940" width="1921" height="1080" transform="translate(0.42 -0.187)" fill="#fff"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.68" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e15e93"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#eac6eb"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.325" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffd561"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="Rectangle_939" x="887.999" y="971" width="157" height="151" filterUnits="userSpaceOnUse">
+      <feOffset dy="50" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.282"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_9" data-name="Mask Group 9" transform="translate(-0.42 0.187)" clip-path="url(#clip-path)">
+    <g id="Group_1807" data-name="Group 1807" transform="translate(-535.581 -969.8)">
+      <rect id="Rectangle_935" data-name="Rectangle 935" width="3294" height="1124" transform="translate(536 1478.613)" fill="url(#radial-gradient)"/>
+      <g id="Group_1805" data-name="Group 1805" transform="translate(0 0)">
+        <rect id="Rectangle_936" data-name="Rectangle 936" width="1921" height="1080" transform="translate(536 969.613)" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_937" data-name="Rectangle 937" width="2662" height="1812" transform="translate(0 -0.387)" fill="url(#radial-gradient-2)"/>
+        <rect id="Rectangle_938" data-name="Rectangle 938" width="3294" height="1124" transform="translate(536 1478.613)" fill="url(#radial-gradient)"/>
+      </g>
+      <g id="Group_1806" data-name="Group 1806" transform="translate(1498.647 1966.077)" opacity="0">
+        <g transform="matrix(1, 0, 0, 1, -962.65, -996.46)" filter="url(#Rectangle_939)">
+          <g id="Rectangle_939-2" data-name="Rectangle 939" transform="translate(963 996)" fill="none" stroke="#fff" stroke-width="1">
+            <path d="M0,0H6A1,1,0,0,1,7,1V1A0,0,0,0,1,7,1H1A1,1,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+            <path d="M.5.5h6a0,0,0,0,1,0,0v0a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0v0A0,0,0,0,1,.5.5Z" fill="none"/>
+          </g>
+        </g>
+        <text id="Next" transform="translate(1 1.457)" fill="#fff" font-size="1" font-family="Ubuntu-Bold, Ubuntu" font-weight="700"><tspan x="-1" y="0">Next</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
